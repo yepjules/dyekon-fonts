@@ -1,0 +1,7 @@
+*.ttf binary
+*.woff2 binary
+*.md text eol=lf
+*.txt text eol=lf
+*.css text eol=lf
+*.json text eol=lf
+SHA256SUMS text eol=lf

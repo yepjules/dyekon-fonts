@@ -1,0 +1,177 @@
+{
+  "package": "Dyekon OFL fonts",
+  "delivery": "Round21b",
+  "license": "OFL-1.1",
+  "copyright": "Copyright \u00a9 2026 Life Nerds LLC.",
+  "faces": 21,
+  "files": [
+    {
+      "path": "ttf/Dyekon-Black.ttf",
+      "sha256": "dfc0b26a83fa2d77fd2fcf97a00eecdc434343bda8ec57df1d211c617e0f5d55"
+    },
+    {
+      "path": "woff2/Dyekon-Black.woff2",
+      "sha256": "3d7562c89ec77066b920627ba8caa8d35e6b54fcef2ee3983492abbf75eb61a7"
+    },
+    {
+      "path": "ttf/Dyekon-BlackItalic.ttf",
+      "sha256": "3f3549b4d876b9f494343808b26b0ccc2d72b639564d500d16416350410319cc"
+    },
+    {
+      "path": "woff2/Dyekon-BlackItalic.woff2",
+      "sha256": "e5bd12744065a748eac696d58657d34a25f257bdbb8d6fc52e07e6305cd96da9"
+    },
+    {
+      "path": "ttf/Dyekon-Bold.ttf",
+      "sha256": "67a99e0a14400a85d4c1df273a9d1687b5cd13b5d6a9c3129ee5c789cbbe50f5"
+    },
+    {
+      "path": "woff2/Dyekon-Bold.woff2",
+      "sha256": "0db996ee6ec98b9678af59428048000c4bdc099470893f03a4ea87ccf37ad077"
+    },
+    {
+      "path": "ttf/Dyekon-BoldItalic.ttf",
+      "sha256": "ff8d261f7f5c21ca23a57b9571aae7e11a066eb043d11c327d7dce5aa8d5127f"
+    },
+    {
+      "path": "woff2/Dyekon-BoldItalic.woff2",
+      "sha256": "ba4532a33ab7959013b7baf2fdb408a87ec27e9e4e81061f7fa5a0a5efb1e46e"
+    },
+    {
+      "path": "ttf/Dyekon-CondensedBlack.ttf",
+      "sha256": "db4638ab6957f01f1fec8d135561c3d9abf49438bc2fa6a910b41a5b7e6a711e"
+    },
+    {
+      "path": "woff2/Dyekon-CondensedBlack.woff2",
+      "sha256": "40f07491c1bdc7a0008f01e8829320845a0bb2834204b64e85b06fad93b20c24"
+    },
+    {
+      "path": "ttf/Dyekon-CondensedBold.ttf",
+      "sha256": "d0bb4d44cce7ae6956f5cac411b4ca77910d4c90b1084568dc271fea69648eac"
+    },
+    {
+      "path": "woff2/Dyekon-CondensedBold.woff2",
+      "sha256": "c0594d31fc234b4816413000f226c14e2ca501a4e013f8e73158ffc3c97cf0f1"
+    },
+    {
+      "path": "ttf/Dyekon-CondensedLight.ttf",
+      "sha256": "ae5eaffebae37de46d278433c1b7f4f688f404e4451b0e9164cafbda293a5f69"
+    },
+    {
+      "path": "woff2/Dyekon-CondensedLight.woff2",
+      "sha256": "5b197bc30c79ed6bca8bba1a88774cbe71140d3901bc512afa63a30e78ac6ee6"
+    },
+    {
+      "path": "ttf/Dyekon-Italic.ttf",
+      "sha256": "2cba6eae9e10b62fe4e430c71a200c5e037d336904fb95c184ad2c04a3541e1b"
+    },
+    {
+      "path": "woff2/Dyekon-Italic.woff2",
+      "sha256": "6495acf490824fbaa94b54f2cfbd8c1e495fd75851af933550e21a8f197cf74e"
+    },
+    {
+      "path": "ttf/Dyekon-Light.ttf",
+      "sha256": "73eee780c366654f7403a5cabc92d564d25e7475260439cfa1ce2e1fd0f0d77c"
+    },
+    {
+      "path": "woff2/Dyekon-Light.woff2",
+      "sha256": "edb9eba39d07a983594dbe4cf1180259e6f3ac752b7584527fb0f17952195ba1"
+    },
+    {
+      "path": "ttf/Dyekon-LightItalic.ttf",
+      "sha256": "1326d66665206eec03a27fa2806b0c69e3d0de3d1f1a6388c91e3e0ad278a426"
+    },
+    {
+      "path": "woff2/Dyekon-LightItalic.woff2",
+      "sha256": "a5fa4e1236a21e280b3763463c3a515f7cd8cbbb9401f504306ff5e7b24d74f0"
+    },
+    {
+      "path": "ttf/Dyekon-Regular.ttf",
+      "sha256": "6d92c0d8a9eec2eeda05d024632a2228a7f5e68d36cafec8035b4c6bc29cc1df"
+    },
+    {
+      "path": "woff2/Dyekon-Regular.woff2",
+      "sha256": "fa2276d0ca5c35292ca90e3ac9c154c24254b75fab832bd4259b1cd38917d6c7"
+    },
+    {
+      "path": "ttf/Dyekon-Semibold.ttf",
+      "sha256": "cd14967113df22025d884b9c0ffeec584758f089edecbdc48b35e38eec28c354"
+    },
+    {
+      "path": "woff2/Dyekon-Semibold.woff2",
+      "sha256": "5125962c3378589c03a7a1fa33ccc98c79fb78c69118c0b485e3c4d45d332169"
+    },
+    {
+      "path": "ttf/Dyekon-SemiboldItalic.ttf",
+      "sha256": "33830494572d815ba4c7593b3f47877ea4f2e18b17185b295a513b80e1fe1dcd"
+    },
+    {
+      "path": "woff2/Dyekon-SemiboldItalic.woff2",
+      "sha256": "d15b2a7b5b5d6fa49025a9e9bdea2ba6bd58289166ef2e28b43d12bafbfd16fd"
+    },
+    {
+      "path": "ttf/DyekonText-Bold.ttf",
+      "sha256": "65f44fd295c53a3968087da9ca5617ee763267eed239a55be70b7040f35542e0"
+    },
+    {
+      "path": "woff2/DyekonText-Bold.woff2",
+      "sha256": "08a5c6b72cf82bc14abf7daa926cf3f5daf8b476d43e85b697d1fdf958636f64"
+    },
+    {
+      "path": "ttf/DyekonText-BoldItalic.ttf",
+      "sha256": "04b04f915a2ecc1d546cf488470e3661459c1acb4434a5f0b205b37cc3448c44"
+    },
+    {
+      "path": "woff2/DyekonText-BoldItalic.woff2",
+      "sha256": "1c0fe6864a9ffcd1a714ca555d2deb70543c17f649534eba67541f17fe110e0e"
+    },
+    {
+      "path": "ttf/DyekonText-Italic.ttf",
+      "sha256": "56688d505f40a45a1065c3d6bd14934b0c643e32d81755d23ee3d98d6cf2ed37"
+    },
+    {
+      "path": "woff2/DyekonText-Italic.woff2",
+      "sha256": "2bdded2e5616f842fb2aa9f1f97049485b1ec346bbb4d57f2f0ebb2e6bd6f8bd"
+    },
+    {
+      "path": "ttf/DyekonText-Regular.ttf",
+      "sha256": "3b761c85b006d4269a9cb600fed717bddad45bca1c9bb1f9d704ba459a558bbd"
+    },
+    {
+      "path": "woff2/DyekonText-Regular.woff2",
+      "sha256": "a5aa703e51a5735376c5c92bb9347fc3285dd4c04bd7afd2361be9e617d0c78c"
+    },
+    {
+      "path": "ttf/DyekonMono-Bold.ttf",
+      "sha256": "c8dfbf7ccc464d5ab610fe215568a0c41011c881eee5c6c1b0d502c4e2a6861d"
+    },
+    {
+      "path": "woff2/DyekonMono-Bold.woff2",
+      "sha256": "f4e822896e4bb15805296d8c47a818c5ae519e4e10afa2615c4338f68329a908"
+    },
+    {
+      "path": "ttf/DyekonMono-BoldItalic.ttf",
+      "sha256": "6c331e1afb24384f7d7a2342f9125e21f1042f35861e30014976c5f5638b6a32"
+    },
+    {
+      "path": "woff2/DyekonMono-BoldItalic.woff2",
+      "sha256": "cc47b3b17ea132df9a65f20757274b67281de589f06b025ff87ef093e494994f"
+    },
+    {
+      "path": "ttf/DyekonMono-Italic.ttf",
+      "sha256": "70c1c016c721ddfe77ed83e4cd45c79c57ffaf7085c4ad2cc6189fced7c2fe38"
+    },
+    {
+      "path": "woff2/DyekonMono-Italic.woff2",
+      "sha256": "d0fb3f2c3b95ab22a1070b2555efca7f985dbad674300fe56aad7a7d1e9ee38f"
+    },
+    {
+      "path": "ttf/DyekonMono-Regular.ttf",
+      "sha256": "454128edcd38ed0797396d4ff4e6699a97f51d2df7598ae712b23a496f1a44dc"
+    },
+    {
+      "path": "woff2/DyekonMono-Regular.woff2",
+      "sha256": "73521ff0763dd8ed18f2097a3117214e09c24e20cd5c6d520a12a82e9f72c70c"
+    }
+  ]
+}

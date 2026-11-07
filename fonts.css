@@ -1,0 +1,190 @@
+/* Dyekon, Dyekon Text and Dyekon Mono — SIL Open Font License 1.1. */
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-Black.woff2") format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-BlackItalic.woff2") format('woff2');
+  font-weight: 900;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-Bold.woff2") format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-BoldItalic.woff2") format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-CondensedBlack.woff2") format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: condensed;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-CondensedBold.woff2") format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: condensed;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-CondensedLight.woff2") format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: condensed;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-Italic.woff2") format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-Light.woff2") format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-LightItalic.woff2") format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-Regular.woff2") format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-Semibold.woff2") format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon';
+  src: url("woff2/Dyekon-SemiboldItalic.woff2") format('woff2');
+  font-weight: 600;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon Text';
+  src: url("woff2/DyekonText-Bold.woff2") format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon Text';
+  src: url("woff2/DyekonText-BoldItalic.woff2") format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon Text';
+  src: url("woff2/DyekonText-Italic.woff2") format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon Text';
+  src: url("woff2/DyekonText-Regular.woff2") format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon Mono';
+  src: url("woff2/DyekonMono-Bold.woff2") format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon Mono';
+  src: url("woff2/DyekonMono-BoldItalic.woff2") format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon Mono';
+  src: url("woff2/DyekonMono-Italic.woff2") format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dyekon Mono';
+  src: url("woff2/DyekonMono-Regular.woff2") format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
