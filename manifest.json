@@ -1,178 +1,179 @@
 {
   "package": "Dyekon OFL fonts",
-  "version": "1.902",
-  "delivery": "Round21b",
+  "version": "23",
+  "delivery": "Round 23",
   "license": "OFL-1.1",
   "copyright": "Copyright \u00a9 2026 Life Nerds LLC.",
   "faces": 21,
   "files": [
     {
       "path": "ttf/Dyekon-Black.ttf",
-      "sha256": "dfc0b26a83fa2d77fd2fcf97a00eecdc434343bda8ec57df1d211c617e0f5d55"
+      "sha256": "c1196f576dca8e4a32d8b30f1524b26d996c2d4012c0111ba2940bd5b2f4c11f"
     },
     {
       "path": "woff2/Dyekon-Black.woff2",
-      "sha256": "3d7562c89ec77066b920627ba8caa8d35e6b54fcef2ee3983492abbf75eb61a7"
+      "sha256": "15fc734d2d3718ce58d0c0fbd768c9c72d944b4979acabfd711243358db30ccf"
     },
     {
       "path": "ttf/Dyekon-BlackItalic.ttf",
-      "sha256": "3f3549b4d876b9f494343808b26b0ccc2d72b639564d500d16416350410319cc"
+      "sha256": "92e9878b2b8a4e226643be447ac623d054f56fb3bcceed5a990c817565104258"
     },
     {
       "path": "woff2/Dyekon-BlackItalic.woff2",
-      "sha256": "e5bd12744065a748eac696d58657d34a25f257bdbb8d6fc52e07e6305cd96da9"
+      "sha256": "09058b2b72f91ee69830ba3811538e612df72d21052684e8c3c2bd55a96c2efd"
     },
     {
       "path": "ttf/Dyekon-Bold.ttf",
-      "sha256": "67a99e0a14400a85d4c1df273a9d1687b5cd13b5d6a9c3129ee5c789cbbe50f5"
+      "sha256": "154465edb0002c992bdf01e9d50a9d111e687da5f388d6383e1273050b5c17be"
     },
     {
       "path": "woff2/Dyekon-Bold.woff2",
-      "sha256": "0db996ee6ec98b9678af59428048000c4bdc099470893f03a4ea87ccf37ad077"
+      "sha256": "2a5a3bd7f3d2fd6c1bf54c02108f05927e29c9bfdbae6d84b0f88a436907852b"
     },
     {
       "path": "ttf/Dyekon-BoldItalic.ttf",
-      "sha256": "ff8d261f7f5c21ca23a57b9571aae7e11a066eb043d11c327d7dce5aa8d5127f"
+      "sha256": "67f37dd2c2ebfe849005315167a5e2acf1bd39b7656e10bdde10e60d9b47d010"
     },
     {
       "path": "woff2/Dyekon-BoldItalic.woff2",
-      "sha256": "ba4532a33ab7959013b7baf2fdb408a87ec27e9e4e81061f7fa5a0a5efb1e46e"
+      "sha256": "bc95cd841948badf6d30af45e39ee79a68122b4c97cc1fe2eb20a753cd988928"
     },
     {
       "path": "ttf/Dyekon-CondensedBlack.ttf",
-      "sha256": "db4638ab6957f01f1fec8d135561c3d9abf49438bc2fa6a910b41a5b7e6a711e"
+      "sha256": "68aa3a2c06a27c3783894eb8d77ec394566ebea975d713ace175d938dbedc381"
     },
     {
       "path": "woff2/Dyekon-CondensedBlack.woff2",
-      "sha256": "40f07491c1bdc7a0008f01e8829320845a0bb2834204b64e85b06fad93b20c24"
+      "sha256": "b8ca21438337e881a059f96fd2fee746de4d9a25cbf98d6e6422bc5bfe7eb4d9"
     },
     {
       "path": "ttf/Dyekon-CondensedBold.ttf",
-      "sha256": "d0bb4d44cce7ae6956f5cac411b4ca77910d4c90b1084568dc271fea69648eac"
+      "sha256": "3f694055ea2f0a9ee0f69884319f333ce06fe8242d6ee284e71c4eae78aa5317"
     },
     {
       "path": "woff2/Dyekon-CondensedBold.woff2",
-      "sha256": "c0594d31fc234b4816413000f226c14e2ca501a4e013f8e73158ffc3c97cf0f1"
+      "sha256": "7da02a0d715794c45a8c195b800f94761e029c5d81daa486286bd33fedfa330f"
     },
     {
       "path": "ttf/Dyekon-CondensedLight.ttf",
-      "sha256": "ae5eaffebae37de46d278433c1b7f4f688f404e4451b0e9164cafbda293a5f69"
+      "sha256": "f178b37c782c3a6ab64dfa596852dcd333c7e4f9c425930c2f212dae255a4dd0"
     },
     {
       "path": "woff2/Dyekon-CondensedLight.woff2",
-      "sha256": "5b197bc30c79ed6bca8bba1a88774cbe71140d3901bc512afa63a30e78ac6ee6"
+      "sha256": "e4d2c797ae2c4cb6bcbd8f6ce9c6ed94f9dde1b24424b33c3ce2c3e053e54114"
     },
     {
       "path": "ttf/Dyekon-Italic.ttf",
-      "sha256": "2cba6eae9e10b62fe4e430c71a200c5e037d336904fb95c184ad2c04a3541e1b"
+      "sha256": "494a1dae249b950a48c101221d4d04865b66b703918ed71f5450f93b5202c39f"
     },
     {
       "path": "woff2/Dyekon-Italic.woff2",
-      "sha256": "6495acf490824fbaa94b54f2cfbd8c1e495fd75851af933550e21a8f197cf74e"
+      "sha256": "32693ccf53af09cca5749d58f2ef05ea2f529b8a8c0962df28622c73bfbaabfe"
     },
     {
       "path": "ttf/Dyekon-Light.ttf",
-      "sha256": "73eee780c366654f7403a5cabc92d564d25e7475260439cfa1ce2e1fd0f0d77c"
+      "sha256": "45cb7df53b320d6e24200903515497c0fc2c729f21ce50d181d6223c8bdd9742"
     },
     {
       "path": "woff2/Dyekon-Light.woff2",
-      "sha256": "edb9eba39d07a983594dbe4cf1180259e6f3ac752b7584527fb0f17952195ba1"
+      "sha256": "0d584ae67735f96af2d5b6b9329cf9ada9c80b9f9b67cf87c13f249619077786"
     },
     {
       "path": "ttf/Dyekon-LightItalic.ttf",
-      "sha256": "1326d66665206eec03a27fa2806b0c69e3d0de3d1f1a6388c91e3e0ad278a426"
+      "sha256": "f749107ec95db22ed51f94300d61224a21ef9a3a87c0333fd83aeef20fe095f8"
     },
     {
       "path": "woff2/Dyekon-LightItalic.woff2",
-      "sha256": "a5fa4e1236a21e280b3763463c3a515f7cd8cbbb9401f504306ff5e7b24d74f0"
+      "sha256": "efcd78dcbefe94f99caa39f09421c5de9b2c2058f616594eac333b4e5a67bab4"
     },
     {
       "path": "ttf/Dyekon-Regular.ttf",
-      "sha256": "6d92c0d8a9eec2eeda05d024632a2228a7f5e68d36cafec8035b4c6bc29cc1df"
+      "sha256": "25f6147badc1454840827dc7b9f66eb3ec53822d1d8e8121978654b5fe40903b"
     },
     {
       "path": "woff2/Dyekon-Regular.woff2",
-      "sha256": "fa2276d0ca5c35292ca90e3ac9c154c24254b75fab832bd4259b1cd38917d6c7"
+      "sha256": "fa7029491465028f8fb70784a2b226640d0c2fca4197842f772376ce2117392d"
     },
     {
       "path": "ttf/Dyekon-Semibold.ttf",
-      "sha256": "cd14967113df22025d884b9c0ffeec584758f089edecbdc48b35e38eec28c354"
+      "sha256": "23179ad45aa012298f9e47d6387e2d4915c862840606efa7b3c44568267e8169"
     },
     {
       "path": "woff2/Dyekon-Semibold.woff2",
-      "sha256": "5125962c3378589c03a7a1fa33ccc98c79fb78c69118c0b485e3c4d45d332169"
+      "sha256": "cd0aa1e2a33d9bc69eb05563f064b54b172df63cb1f66788967eaebe270d0a13"
     },
     {
       "path": "ttf/Dyekon-SemiboldItalic.ttf",
-      "sha256": "33830494572d815ba4c7593b3f47877ea4f2e18b17185b295a513b80e1fe1dcd"
+      "sha256": "5ff0797e15e4d902457af278916429d172f76904cdf3df4d885473be67cd7386"
     },
     {
       "path": "woff2/Dyekon-SemiboldItalic.woff2",
-      "sha256": "d15b2a7b5b5d6fa49025a9e9bdea2ba6bd58289166ef2e28b43d12bafbfd16fd"
+      "sha256": "8fa5bf0bdce0a97ed958211ea194d631645b20aaa5b4cc64f48dd3320f2ca60a"
     },
     {
       "path": "ttf/DyekonText-Bold.ttf",
-      "sha256": "65f44fd295c53a3968087da9ca5617ee763267eed239a55be70b7040f35542e0"
+      "sha256": "e80e7aff6f47250da6846ffdf43ca939112d0c98a6661fad4c4f6071e8f7faac"
     },
     {
       "path": "woff2/DyekonText-Bold.woff2",
-      "sha256": "08a5c6b72cf82bc14abf7daa926cf3f5daf8b476d43e85b697d1fdf958636f64"
+      "sha256": "bc5d903e9ed1b3700c8df489d29ab0a5edde658cc96cf6775f7018cc0f725ff5"
     },
     {
       "path": "ttf/DyekonText-BoldItalic.ttf",
-      "sha256": "04b04f915a2ecc1d546cf488470e3661459c1acb4434a5f0b205b37cc3448c44"
+      "sha256": "599bbbb5e9395b32af2397511d4c8c86c30c200fbb972b3fee3aa430384c6570"
     },
     {
       "path": "woff2/DyekonText-BoldItalic.woff2",
-      "sha256": "1c0fe6864a9ffcd1a714ca555d2deb70543c17f649534eba67541f17fe110e0e"
+      "sha256": "79415f3a66fabaf5b5a8228271b5f1dbe68af3cd56f94eae67accc742dfd9b2e"
     },
     {
       "path": "ttf/DyekonText-Italic.ttf",
-      "sha256": "56688d505f40a45a1065c3d6bd14934b0c643e32d81755d23ee3d98d6cf2ed37"
+      "sha256": "8a4e1ca48707a7549031d1e0d6ee6381df835cd02fa2fc358e4867e56624630e"
     },
     {
       "path": "woff2/DyekonText-Italic.woff2",
-      "sha256": "2bdded2e5616f842fb2aa9f1f97049485b1ec346bbb4d57f2f0ebb2e6bd6f8bd"
+      "sha256": "7e61b7c9466b4429a105e8ade75b7e4e6d9588d5eb44a119e1c3b642fd907838"
     },
     {
       "path": "ttf/DyekonText-Regular.ttf",
-      "sha256": "3b761c85b006d4269a9cb600fed717bddad45bca1c9bb1f9d704ba459a558bbd"
+      "sha256": "cca920083c6c31c116aab70d65d5396cd57f14524d7c45dcd0e9b1cb8d19cc90"
     },
     {
       "path": "woff2/DyekonText-Regular.woff2",
-      "sha256": "a5aa703e51a5735376c5c92bb9347fc3285dd4c04bd7afd2361be9e617d0c78c"
+      "sha256": "91641bfb6e52ad0f01775e3620825edc764e55e90d016a767736754e6afdb5cb"
     },
     {
       "path": "ttf/DyekonMono-Bold.ttf",
-      "sha256": "c8dfbf7ccc464d5ab610fe215568a0c41011c881eee5c6c1b0d502c4e2a6861d"
+      "sha256": "04e6eff6db712ea8059bf7a3b88750caa0edf6d179005a6a76fefc098b496f41"
     },
     {
       "path": "woff2/DyekonMono-Bold.woff2",
-      "sha256": "f4e822896e4bb15805296d8c47a818c5ae519e4e10afa2615c4338f68329a908"
+      "sha256": "7c078e9df63e536cf7ac99e43ff2003cfa4e91f49878cea972d905f8dd225e72"
     },
     {
       "path": "ttf/DyekonMono-BoldItalic.ttf",
-      "sha256": "6c331e1afb24384f7d7a2342f9125e21f1042f35861e30014976c5f5638b6a32"
+      "sha256": "febff93932f2fed32a6e56fce40c5020cd4ca4f4fe88380f7987ac24e9f1e783"
     },
     {
       "path": "woff2/DyekonMono-BoldItalic.woff2",
-      "sha256": "cc47b3b17ea132df9a65f20757274b67281de589f06b025ff87ef093e494994f"
+      "sha256": "95d3227a6119202fbd4b62e2ed78f5fd709be69914694da131fd0ff139e24b5f"
     },
     {
       "path": "ttf/DyekonMono-Italic.ttf",
-      "sha256": "70c1c016c721ddfe77ed83e4cd45c79c57ffaf7085c4ad2cc6189fced7c2fe38"
+      "sha256": "64e9efbc1598738b7536031e4b14837f7f1e960b07080adc9d1598e45196eafa"
     },
     {
       "path": "woff2/DyekonMono-Italic.woff2",
-      "sha256": "d0fb3f2c3b95ab22a1070b2555efca7f985dbad674300fe56aad7a7d1e9ee38f"
+      "sha256": "f3c6c436cedbfe197bfe4ac2588c8eeee6644e548c2e99dac3155e0373bba002"
     },
     {
       "path": "ttf/DyekonMono-Regular.ttf",
-      "sha256": "454128edcd38ed0797396d4ff4e6699a97f51d2df7598ae712b23a496f1a44dc"
+      "sha256": "4378f9972939bf4eff2269964a8148d18fc00f492591146b6495d87c792ed872"
     },
     {
       "path": "woff2/DyekonMono-Regular.woff2",
-      "sha256": "73521ff0763dd8ed18f2097a3117214e09c24e20cd5c6d520a12a82e9f72c70c"
+      "sha256": "8ad5b5152cb816b08c79244182cde98ec7a5d3f9218a8d7255be97a1847f09bc"
     }
-  ]
+  ],
+  "openTypeVersion": "1.902"
 }

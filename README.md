@@ -4,9 +4,9 @@ The OFL edition of **Dyekon**, **Dyekon Text**, and **Dyekon Mono**, by Jules / 
 
 Hand-drawn and outlined by Jules Raymond with minor contributions by Beatrice and Arthur Raymond.
 
-This repository distributes the approved Round21b fonts, unchanged, in desktop TTF and web WOFF2 formats.
+This repository distributes the approved Round 23 designs as desktop TTF and web WOFF2 files. Dyekon and Dyekon Text include the revised lowercase **m** and combining-accent placement. Dyekon Mono is the approved four-face Mono 23.
 
-Current version: **[1.902](https://github.com/yepjules/dyekon-fonts/releases/tag/v1.902)**. See the [changelog](CHANGELOG.md).
+The current package is **v23**. Every font retains its embedded OpenType version of **1.902**. [Release](https://github.com/yepjules/dyekon-fonts/releases/tag/v23) · [Changelog](CHANGELOG.md)
 
 ## Families
 
@@ -20,7 +20,7 @@ Dyekon Text is a distinct reading design; its upright styles use a double-storey
 
 ## Download and install
 
-Download **[Dyekon-OFL-1.902.zip](https://github.com/yepjules/dyekon-fonts/releases/download/v1.902/Dyekon-OFL-1.902.zip)**, then extract the archive. Open the `.ttf` files in [`ttf/`](ttf/) and use your operating system's font installer. Install only the styles you need.
+Download and extract **[Dyekon-OFL-23.zip](https://github.com/yepjules/dyekon-fonts/releases/download/v23/Dyekon-OFL-23.zip)**. Open the `.ttf` files in [`ttf/`](ttf/) and use your operating system's font installer. Install only the styles you need.
 
 ## Use on the web
 
@@ -56,13 +56,15 @@ These are static fonts. Request an available weight, style, and stretch from the
 
 Check your intended text at its final display size. Fine strokes, dense accents, and stacked combining marks can lose detail at small sizes. Dyekon Mono has no automatic `fi` or `fl` ligature substitution.
 
+Round 23 preserves the existing line metrics. Tall and deep accent stacks can extend beyond them and may clip in a fixed-height text box. Test stacked accents with the line height you intend to use.
+
 The original native rendering checks covered TTF in Chrome on macOS. They do not establish acceptance on every browser, operating system, or display.
 
 ## Versioning
 
-[`VERSION`](VERSION) and the `version` field in [`manifest.json`](manifest.json) record the package's font version as a string. Git tags use the same value prefixed with `v`, such as `v1.902`. This follows the existing font version numbering rather than semantic versioning.
+The package version identifies the approved design round. Git tags prefix that value with `v`, as in `v23`. The manifest records the embedded font version separately. [Package version](VERSION) · [Manifest](manifest.json)
 
-Version 1.902 matches the embedded version string in every supplied TTF. Tagged releases preserve their published font files; future font updates receive a new version and tag. Documentation changes may appear on `main` between releases. Use a tagged release when you need a fixed package.
+The earlier Round 21b package is archived under its original tag, `v1.902`. Use a tagged release when you need a fixed package. [Round 21b release](https://github.com/yepjules/dyekon-fonts/releases/tag/v1.902)
 
 ## Package integrity
 

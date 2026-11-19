@@ -1,5 +1,12 @@
 # Changelog
 
+## v23 — 2026-11-19
+
+- Dyekon and Dyekon Text carry the approved Round 23 drawings, including the middle V on lowercase **m** in all 17 faces.
+- Figures, raised forms and currency signs gain above- and below-mark attachment. Three-accent stacks on existing letters include collision repairs for composed and decomposed spellings.
+- The package includes the four approved Dyekon Mono Round 23 faces in TTF and WOFF2.
+- All 21 fonts retain OpenType version 1.902. The package identifier is 23.
+
 ## 1.902 — 2026-11-07
 
 First tagged release of the standalone Dyekon OFL distribution.
